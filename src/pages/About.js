@@ -4,10 +4,8 @@ export const About = () => {
   return (
     <div className="jumbotron jumbotron-fluid">
       <div className="container">
-        <h1 className="display-4">Страница-заглушка</h1>
-        <p className="lead">
-          Какой-то не нужный текст.
-        </p>
+        <h1 className="display-4">React-hook app</h1>
+        <p className="lead">React-hook app for browsing github accounts.</p>
       </div>
     </div>
   );
